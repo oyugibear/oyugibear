@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oyugibear
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently a senior student at university, studying computer science.
-- 💞️ I’m looking to collaborate on different project for clients or just for fun
+- 💞️ I’m looking to collaborate on different projects for clients or just for fun
 - 📫 How to reach me: email me at jroyugi@gmail.com
 
 <!---
